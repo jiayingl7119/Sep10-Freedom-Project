@@ -8,7 +8,7 @@
 
 <h3> Links </h3>
 
-<p> Researching such topic has led me to explore more on what my future career might be. Like <a href="https://www.nalp.org/what_do_lawyers_do" alt="what do lawyers actually do"</a> </p>
+<p> Researching such topic has led me to explore more on what my future career might be. Like <a href="https://www.nalp.org/what_do_lawyers_do">what lawyers do</a> </p>
 
 [Next](entry02.md)
 
