@@ -11,6 +11,11 @@
 
 <p> Researching such topic has led me to explore more on what my future career might be. Like <a href="https://www.nalp.org/what_do_lawyers_do">what lawyers do</a>. This link gave me a clear understanding on what lawyers are focused on. Two other important websites I use are <a href="https://www.ncbar.gov/for-lawyers/ethics/rules-of-professional-conduct/01-preamble-a-lawyers-responsibilities/?ruleSearchTerm=civil%20procedure">ethics of a lwayer</a> and <a href="https://www.britannica.com/topic/lawyer">definition</a>. The reasoning behind the two websites is because one gives me the idea of what it is like being a lwayer. The other gives me a definition and a clear undertstanding of what a lawyer is supposed to be like.</p>
 
+<h2> Design Process</h2>
+
+<p> Currently, I am deciding on how I will be executing the Freedom Project. For now, I am deciding on showing how a court will work. That includes what the judge will say, testimony, attorneys, witnesses, and more.</p>
+
+<h2> Skills I Have</h2>
 
 [Next](entry02.md)
 
