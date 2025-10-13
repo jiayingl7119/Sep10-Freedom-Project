@@ -17,6 +17,14 @@
 
 <h2> Skills I Have</h2>
 
+<p> Some of the skills I have include:</p>
+
+<h6> Orgnaization </h6>
+<p> I always have my things organized and I will have dedicated sections to whatever I have going on in the day. This will either include stars, a list, or color coding.</p>
+
+<h6> Work Ethic</h6>
+<p> I waste no time when it comes to work. When I do my work, I pay attention to every detail. I finish my work efficiently and correctly. There will be no mistakes since I will double check everything I work on. This also includes writing and reading. I will take in every detail and store it somewhere where I know I will find it. </p>
+
 [Next](entry02.md)
 
 [Home](../README.md)
