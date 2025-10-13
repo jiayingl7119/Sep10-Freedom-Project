@@ -1,4 +1,4 @@
-# Entry 1
+# Blog 1
 ##### 10/13/2025
 
 <h1>SEP 10 Freedom Project</h1>
@@ -24,6 +24,10 @@
 
 <h6> Work Ethic</h6>
 <p> I waste no time when it comes to work. When I do my work, I pay attention to every detail. I finish my work efficiently and correctly. There will be no mistakes since I will double check everything I work on. This also includes writing and reading. I will take in every detail and store it somewhere where I know I will find it. </p>
+
+<h2> The Next Step</h2>
+
+<p> The next step is to figure out how to properly make a huge project. After all, this project will take a lot of time and energy which I am willing to give.</p>
 
 [Next](entry02.md)
 
