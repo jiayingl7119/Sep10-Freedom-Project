@@ -8,7 +8,7 @@
 
 <h3> Links </h3>
 
-<p> Researching such topic has led me to explore more on what my future career might be. Like <a href="https://www.nalp.org/what_do_lawyers_do">what lawyers do</a> </p>
+<p> Researching such topic has led me to explore more on what my future career might be. Like <a href="https://www.nalp.org/what_do_lawyers_do">what lawyers do</a>. This link gave me a clear understanding on what lawyers are focused on. Two other important websites I use are <a href="https://www.ncbar.gov/for-lawyers/ethics/rules-of-professional-conduct/01-preamble-a-lawyers-responsibilities/?ruleSearchTerm=civil%20procedure">ethics of a lwayer</a> and <a href="https://www.britannica.com/topic/lawyer">definition</a>.  </p>
 
 [Next](entry02.md)
 
