@@ -1,5 +1,5 @@
 # Content
-Topic: **Freedm Project Prep**
+Topic: **Freedom Project Prep**
 
 ## Overview/Introduction/Context
 * Text
