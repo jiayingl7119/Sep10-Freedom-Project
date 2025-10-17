@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Freedm Project Prep**
 
 ## Overview/Introduction/Context
 * Text
@@ -7,7 +7,7 @@ Topic: **X**
 
 ## Part A: existing technology
 * Tech
-  * Detail
+  * Evernote: Used By Lawyers o keep track of their notes and can be synced through all devices.
   * [image text](image URL)
 
 ## Part B: possible future technology
