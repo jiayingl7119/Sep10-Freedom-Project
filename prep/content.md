@@ -7,7 +7,7 @@ Topic: **Freedm Project Prep**
 
 ## Part A: existing technology              * Tech
 * Evernote: Used By Lawyers o keep track of their notes and can be synced through all devices.
-  * [Evernote Logo]=     width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e9ea3985-7919-4a30-87fa-71412d0ec56c"
+  * [Evernote Logo]=     <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e9ea3985-7919-4a30-87fa-71412d0ec56c">
 * LEAP: Used to Drafting Documents/Legal Usages. Also to manage legal documents.
   * [LEAP Logo]=
 * 
