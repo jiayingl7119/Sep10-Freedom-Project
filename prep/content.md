@@ -15,7 +15,7 @@ Topic: **Freedom Project Prep**
   * Used By Lawyers to keep track of their notes and can be synced through all devices.
   * Link: "https://evernote.com/"
 * RingCentral
-  *[RingCentral Logo]=   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139">
+    * [RingCentral Logo]=   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139">
     * Clients and their lawyers use this app to communicate with each other.
   * You can also share important files with said client.
   * Used for communication among lawyers in a law firm.
