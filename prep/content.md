@@ -3,7 +3,7 @@ Topic: **Freedom Project Prep**
 
 ## Overview/Introduction/Context
 * This part contains the websites that have already been made that Lawyers Often Use.
-   The type of searches include:
+* The type of searches include:
 * Types of Apps Lawyers Use
 * Unknown Apps Lawyers Use
 * Useful Apps for Lawyers
