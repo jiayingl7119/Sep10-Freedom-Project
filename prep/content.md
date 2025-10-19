@@ -23,6 +23,12 @@ Topic: **Freedom Project Prep**
   *Also has a search bar
   *Can also leave voicemails when the other person is unavailable.
   *You can see Unread Text Messages you have received.
+    * Calender on Website for people to use to track their appointments.
+  * Templates for organizing said notes.
+  * Notebook and Spaces to organize them into categories.
+  * Search for notes that you cannot find.
+  * Used By Lawyers to keep track of their notes and can be synced through all devices.
+  * Link: "https://evernote.com/"
 
 ## Part B: possible future technology
 * Idea
