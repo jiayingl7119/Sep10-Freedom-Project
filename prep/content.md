@@ -13,7 +13,7 @@ Topic: **Freedom Project Prep**
   * Notebook and Spaces to organize them into categories.
   * Search for notes that you cannot find.
 * RingCentral
-  * [RingCentral Logo]=   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139" />
+  * [RingCentral Logo]=   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139" />
 ">
 
 ## Part B: possible future technology
