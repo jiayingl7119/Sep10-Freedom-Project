@@ -5,12 +5,16 @@ Topic: **Freedom Project Prep**
 * Text
 * Text
 
-## Part A: existing technology
+## Part A: existing technology: Apps
 * Evernote: Used By Lawyers o keep track of their notes and can be synced through all devices.
   * [Evernote Logo]=     <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e9ea3985-7919-4a30-87fa-71412d0ec56c">
-* LEAP: Used to Drafting Documents/Legal Usages. Also to manage legal documents.
-  * [LEAP Logo]= Cannot Sync
-* 
+  * Calender on Website for people to use to track their appointments.
+  * Templates for organizing said notes.
+  * Notebook and Spaces to organize them into categories.
+  * Search for notes that you cannot find.
+* RingCentral
+  * [RingCentral Logo]=   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139" />
+">
 
 ## Part B: possible future technology
 * Idea
