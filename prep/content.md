@@ -2,8 +2,11 @@
 Topic: **Freedom Project Prep**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* This part contains the websites that have already been made that Lawyers Often Use.
+   The type of searches include:
+* Types of Apps Lawyers Use
+* Unknown Apps Lawyers Use
+* Useful Apps for Lawyers
 
 ## Part A: existing technology: Apps
 * Evernote
