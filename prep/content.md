@@ -25,6 +25,7 @@ Topic: **Freedom Project Prep**
   * Can also be used for calling and not just texting.
   * Also has a search bar
   * You can see Unread Text Messages you have received.
+  * Side Note: Uses a lot of AI which I personally don't like. Most people don't like AI either. Especially when it comes to apps that are used by LAWYERS.
   * Link: "https://www.ringcentral.com"
 
 ## Part B: possible future technology
