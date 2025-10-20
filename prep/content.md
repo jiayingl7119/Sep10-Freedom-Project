@@ -25,7 +25,7 @@ Topic: **Freedom Project Prep**
   * Can also be used for calling and not just texting.
   * Also has a search bar
   * You can see Unread Text Messages you have received.
-  * Link: "https://evernote.com/"
+  * Link: "https://www.ringcentral.com"
 
 ## Part B: possible future technology
 * Ideas For Apps and Features
