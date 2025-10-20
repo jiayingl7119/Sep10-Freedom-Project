@@ -30,7 +30,4 @@ Topic: **Freedom Project Prep**
 
 ## Part B: possible future technology
 * Ideas For Apps and Features
-  * An app that can give advice if you're the client.
-  * Features that don't include AI.
-  * Feature where people can learn what to do in a court hearing.
-  * Show possible scenerios that can happen during a trial or court in general.
+  *
