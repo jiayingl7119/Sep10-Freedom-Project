@@ -16,7 +16,7 @@ Topic: **Freedom Project Prep**
   * Notebook and Spaces to organize them into categories.
   * Search for notes that you cannot find.
   * Used By Lawyers to keep track of their notes and can be synced through all devices.
-  * Link: "https://evernote.com/"
+  * Link: "https://evernote.com"
 * RingCentral
     * [RingCentral Logo]=   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139">
     * Clients and their lawyers use this app to communicate with each other.
