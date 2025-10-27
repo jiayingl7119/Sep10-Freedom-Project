@@ -28,8 +28,17 @@ Topic: **Freedom Project Prep**
   * Side Note: Uses a lot of AI which I personally don't like. Most people don't like AI either. Especially when it comes to apps that are used by LAWYERS.
   * Link: "https://www.ringcentral.com"
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  * Legal Board Keyboard
+  * Increase Efficiency.
+  * No complicated keys used.
+  * Streamline the document creation workflow.
+* Pocket Projector
+  * Turn a flat surface into a presentation.
+  * Simple to use.
+  * Good for lawyers that are always working.
+
+
 ## Part B: possible future technology
- Ideas For Apps and Features:
-* Legal Board
-  * Calender on Website for people to use to track their appointments.
-  * Templates for organizing said notes.
+ Ideas For Apps and Features
