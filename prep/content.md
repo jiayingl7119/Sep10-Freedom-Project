@@ -29,5 +29,5 @@ Topic: **Freedom Project Prep**
   * Link: "https://www.ringcentral.com"
 
 ## Part B: possible future technology
-* Ideas For Apps and Features
-  *
+ Ideas For Apps and Features:
+* 
