@@ -30,7 +30,7 @@ Topic: **Freedom Project Prep**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  * Legal Board Keyboard
+ * Legal Board Keyboard
   * Increase Efficiency.
   * No complicated keys used.
   * Streamline the document creation workflow.
