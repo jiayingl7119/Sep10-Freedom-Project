@@ -30,4 +30,4 @@ Topic: **Freedom Project Prep**
 
 ## Part B: possible future technology
  Ideas For Apps and Features:
-* 
+* rtyui
