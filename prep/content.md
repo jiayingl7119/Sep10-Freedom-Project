@@ -31,4 +31,5 @@ Topic: **Freedom Project Prep**
 ## Part B: possible future technology
  Ideas For Apps and Features:
 * Legal Board
-* You can also share important files with said client.
+  * Calender on Website for people to use to track their appointments.
+  * Templates for organizing said notes.
