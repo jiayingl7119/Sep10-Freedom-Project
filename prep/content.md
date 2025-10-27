@@ -43,10 +43,10 @@ Topic: **Freedom Project Prep**
   * Phone is always charged which means getting updates better.
   * No need for charging because it is powered by the sun.
  * Mug Warmer
-  * Used to keep coffee hot.
-  * Can be used when someone does not have much time to drink coffee.
-  * Perfect for people who are slow drinkers.
-  * Used to keep Lawyers awake during their shift.
+    * Used to keep coffee hot.
+    * Can be used when someone does not have much time to drink coffee.
+    * Perfect for people who are slow drinkers.
+    * Used to keep Lawyers awake during their shift.
 
 ## Part B: possible future technology
  Ideas For Apps and Features
