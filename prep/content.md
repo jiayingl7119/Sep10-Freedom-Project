@@ -31,9 +31,9 @@ Topic: **Freedom Project Prep**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  * Legal Board Keyboard
-  * Increase Efficiency.
-  * No complicated keys used.
-  * Streamline the document creation workflow.
+   * Increase Efficiency.
+   * No complicated keys used.
+   * Streamline the document creation workflow.
 * Pocket Projector
   * Turn a flat surface into a presentation.
   * Simple to use.
