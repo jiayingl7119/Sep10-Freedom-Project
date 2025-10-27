@@ -30,4 +30,5 @@ Topic: **Freedom Project Prep**
 
 ## Part B: possible future technology
  Ideas For Apps and Features:
-* rtyui
+* Legal Board
+* You can also share important files with said client.
