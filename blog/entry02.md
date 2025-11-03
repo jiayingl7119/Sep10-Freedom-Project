@@ -5,7 +5,7 @@
 
 <h2> Why I Chose The Law Firm Industry</h2>
 
-<p> The topics I've chosen were Law Firm, Fashion Designing, and Baking. I chose law because I used to want to be one when I was younger. To add on, I also liked debating. Since lawyers always debate, I think it would be perfect for me.</p>
+<p> The topics I've chosen were Law Firm, Fashion Designing, and Baking. I chose law because I used to want to be one when I was younger. To add on, I also liked debating. Since lawyers always debate, I think it would be perfect for me. I've learned about what's illegal and legal, watched movies about law, and about gatheringevidence for a court trial.</p>
 
 [Previous](entry01.md) | [Next](entry03.md)
 
