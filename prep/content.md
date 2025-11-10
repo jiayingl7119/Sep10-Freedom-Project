@@ -9,6 +9,8 @@ Topic: **Freedom Project Prep**
 * Useful Apps for Lawyers
 
 ## Part A: existing technology: Apps
+
+[No Ai Usage]
 * Evernote
   * [Evernote Logo]=     <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e9ea3985-7919-4a30-87fa-71412d0ec56c">
   * Calender on Website for people to use to track their appointments.
@@ -17,6 +19,8 @@ Topic: **Freedom Project Prep**
   * Search for notes that you cannot find.
   * Used By Lawyers to keep track of their notes and can be synced through all devices.
   * Link: "https://evernote.com"
+
+ [AI Usage]
 * RingCentral
     * [RingCentral Logo]=   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c8e86033-2dd2-4adb-a2a0-0c8c4ca5b139">
     * Clients and their lawyers use this app to communicate with each other.
@@ -30,6 +34,7 @@ Topic: **Freedom Project Prep**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Work-Related Usage]
  * Legal Board Keyboard
    * Increase Efficiency.
    * No complicated keys used.
@@ -38,6 +43,8 @@ Topic: **Freedom Project Prep**
   * Turn a flat surface into a presentation.
   * Simple to use.
   * Good for lawyers that are always working.
+ 
+[Everyday Usage]
 * Portable Solar Charger
   * Can charge devices in the sun.
   * Phone is always charged which means getting updates better.
