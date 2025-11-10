@@ -39,6 +39,8 @@ Topic: **Freedom Project Prep**
    * Increase Efficiency.
    * No complicated keys used.
    * Streamline the document creation workflow.
+  
+[In-Between]
 * Pocket Projector
   * Turn a flat surface into a presentation.
   * Simple to use.
