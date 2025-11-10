@@ -57,7 +57,7 @@ Topic: **Freedom Project Prep**
   
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Introduction/Context]
-  The job of a lawyer is to defend their clients on what they are accused of. This includes gathering evidence, witnesses, and fingerprints to accuse the accuser. The law firm is used when people are in need of someone who defends them in court for a accusation. The lawyer provided by the law firm uses their resources to help defend the client and make them not guilty.
+  <p> The job of a lawyer is to defend their clients on what they are accused of. This includes gathering evidence, witnesses, and fingerprints to accuse the accuser. The law firm is used when people are in need of someone who defends them in court for a accusation. The lawyer provided by the law firm uses their resources to help defend the client and make them not guilty. The reason why this is important is because many get put in jail for wrong accusations are straight up because their lawyers cannot fight back the accusation of the other person's lawyer. Hence why many need a reliable law firm that provides a good lawyer who can defend. </p>
   
 
 ## Part B: possible future technology
