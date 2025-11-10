@@ -45,7 +45,7 @@ Topic: **Freedom Project Prep**
   * Good for lawyers that are always working.
  
 [Everyday Usage]
-* Portable Solar Charger
+ * Portable Solar Charger
   * Can charge devices in the sun.
   * Phone is always charged which means getting updates better.
   * No need for charging because it is powered by the sun.
@@ -54,6 +54,11 @@ Topic: **Freedom Project Prep**
     * Can be used when someone does not have much time to drink coffee.
     * Perfect for people who are slow drinkers.
     * Used to keep Lawyers awake during their shift.
+  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Introduction/Context]
+  The job of a lawyer is to defend their clients on what they are accused of. This includes gathering evidence, witnesses, and fingerprints to accuse the accuser. The law firm is used when people are in need of someone who defends them in court for a accusation. The lawyer provided by the law firm uses their resources to help defend the client and make them not guilty.
+  
 
 ## Part B: possible future technology
  Ideas For Apps and Features
