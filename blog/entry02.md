@@ -13,6 +13,10 @@
 
 <p> There are multiple links to mulitple websites for lawyers. The ones mentioned before are included. For Evernote: <a href="https://evernote.com/why-evernote">Evernote Website</a>. This website explains why you should use Evernote. Especially because of note-taking if you are having to take a lot of notes. For RingCentral: <a href="https://www.ringcentral.com/us/en/blog/">RingCentral Website</a>. This is mainly AI. However, it is useful for lawyers that are busy and gives them time to adjust to their client.</p>
 
+<h2> Engineering Design Process</h2>
+
+<p> This is the second stage. Which is finding research about apps related to my topic. The second stage includes examples of apps related to the law firm. After all, there is no specific app for law firms. Stage three is going to be the actual part where I am going to brainstorm ideas for future apps for law firms. The main problem is developing a website where clients can find lawyers. Which is what I am trying to solve.</p>
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
