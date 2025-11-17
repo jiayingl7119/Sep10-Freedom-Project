@@ -63,4 +63,19 @@ Topic: **Freedom Project Prep**
   
 
 ## Part B: possible future technology
- Ideas For Apps and Features
+[Light Weight Foldable Evidence Book]
+-Used to carry a lot of documents in one space
+-Has labeled Bookmarks
+-Easily fits in a person’s pocket
+-Cannot easily be seen
+[Backed Up Evidence File]
+-A file that can copy what once was destroyed
+-Makes people unable to get rid of the evidence that is against them
+-Made out of strong paper so people can’t easily rip the paper up
+-Also made to not be seen easily
+[Live Small Projector]
+-Made to not be seen properly
+-Able to hide without anyone noticing so they can’t break it
+-Also made to project evidence live just in case the evidence was tampered with
+-A pain to find but can be tracked through phone
+
