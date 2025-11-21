@@ -8,6 +8,8 @@ Topic: **Freedom Project Prep**
 * Unknown Apps Lawyers Use
 * Useful Apps for Lawyers
 
+<p> There are also several other searches however the list will go on and on if I list all of them so that is all for part A.</p>
+
 ## Part A: existing technology: Apps
 
 [No Ai Usage]
