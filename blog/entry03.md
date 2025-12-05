@@ -6,7 +6,7 @@
 <h2>The Law Firm Industry</h2>
 <p> While working for the law firms, you get experience. These experiences include how to manage your time, investigating, and also more knowledge. You learn to manage your time when you're going to work. After all, court does not wait for the laweyr to show up for trials.</p>
 
-<p> </p>
+<p> You get better in investigating because the job of a lawyer is to investigate deeper into a case. This will include the evidence they give. Such as if the client is recording a scene in a public area or private. As many know, you can freely recorrd anything if it is in public. However if it is private, then it would be considered illegal. </p>
 
 <h2> Links</h2>
 
