@@ -4,8 +4,11 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 3/30/2026:
+* https://share.google/59zvNjATJsnRKD4Rs <-- Getting started with Aframe
+* Changed the colors of the shapes on the platform of the starter code for Aframe
+* Needs ALL starter code for basically everything to work
+* 
 
 ### X/X/XX:
 * Text
