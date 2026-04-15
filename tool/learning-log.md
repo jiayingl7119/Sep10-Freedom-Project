@@ -12,12 +12,19 @@
 * Needs ALL starter code for basically everything to work
 * 
 
-### 4/15/2026:
+### 4/15/2026: Basic Codes
 * Look at the aframe codes from the aframe github and try them out on jsbin to get used to the coding.
 * https://aframe.io/docs/1.7.0/components/geometry.html <-- Code for the shapes available in Aframe.
 * https://github.com/aframevr/aframe/ <-- The code for effects (Snow or Rain depending on how you look at the starter code in jsbin)
 * https://aframe.io/docs/1.7.0/introduction/html-and-primitives.html <-- Starting code + image of what we work with.
 
+### 4/16/2026: 
+* 
+* 
+
+### 4/17/2026
+* 
+* 
 
 <!-- 
 * Links you used today (websites, videos, etc)
