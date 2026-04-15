@@ -17,6 +17,7 @@
 * https://aframe.io/docs/1.7.0/components/geometry.html <-- Code for the shapes available in Aframe.
 * https://github.com/aframevr/aframe/ <-- The code for effects (Snow or Rain depending on how you look at the starter code in jsbin)
 * https://aframe.io/docs/1.7.0/introduction/html-and-primitives.html <-- Starting code + image of what we work with.
+* https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html <-- Tutorial built in Aframe
 
 ### 4/16/2026: Different Components That I'm Interested In
 * 
