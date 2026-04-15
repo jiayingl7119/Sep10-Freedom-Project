@@ -13,7 +13,7 @@
 * 
 
 ### 4/15/2026:
-* Text
+* Look at the aframe codes from the aframe github and try them out on jsbin to get used to the coding.
 
 
 <!-- 
