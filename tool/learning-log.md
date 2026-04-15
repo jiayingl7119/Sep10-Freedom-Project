@@ -14,6 +14,8 @@
 
 ### 4/15/2026:
 * Look at the aframe codes from the aframe github and try them out on jsbin to get used to the coding.
+* https://aframe.io/docs/1.7.0/components/geometry.html <-- Code for the shapes available in Aframe.
+* 
 
 
 <!-- 
