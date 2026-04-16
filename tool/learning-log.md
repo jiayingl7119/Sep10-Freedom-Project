@@ -25,6 +25,15 @@
 * https://aframe.io/docs/1.7.0/components/camera.html <-- How to angle with the pov
 * < a-scene fog="type: linear; color: #AAA"></a-scene (close off) <-- Code for fog
 * Only a few shapes can be used in Aframe
+* https://aframe.io/docs/1.7.0/components/rotation.html <-- Rotation
+* https://aframe.io/docs/1.7.0/components/scale.html <-- Scaling
+* https://aframe.io/docs/1.7.0/components/sound.html <-- Sound
+* https://aframe.io/docs/1.7.0/components/pool.html <-- Pool
+* https://aframe.io/docs/1.7.0/components/position.html <-- Positioning
+* https://aframe.io/docs/1.7.0/components/material.html <-- material stuff
+* https://aframe.io/docs/1.7.0/components/link.html <-- linking
+* https://aframe.io/docs/1.7.0/components/debug.html <-- debugging
+* https://aframe.io/docs/1.7.0/components/anchored.html <-- anchoring
 
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
 * 
