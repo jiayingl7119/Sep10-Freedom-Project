@@ -34,6 +34,7 @@
 * https://aframe.io/docs/1.7.0/components/link.html <-- linking
 * https://aframe.io/docs/1.7.0/components/debug.html <-- debugging
 * https://aframe.io/docs/1.7.0/components/anchored.html <-- anchoring
+* https://aframe.io/docs/1.7.0/components/reflection.html <-- reflection
 
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
 * 
