@@ -23,6 +23,8 @@
 ### 4/16/2026: Different Components That I'm Interested In
 * https://aframe.io/docs/1.7.0/components/background.html <-- How to make a backgrounf for a scene
 * https://aframe.io/docs/1.7.0/components/camera.html <-- How to angle with the pov
+* <a-scene fog="type: linear; color: #AAA"></a-scene> <-- Code for fog
+* Only a few shapes can be used in Aframe
 
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
 * 
