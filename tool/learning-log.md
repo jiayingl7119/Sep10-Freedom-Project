@@ -21,7 +21,7 @@
 * https://aframe.io/docs/1.7.0/introduction/hosting-and-publishing.html <-- Tutorial how to host and publush work.
 
 ### 4/16/2026: Different Components That I'm Interested In
-* 
+* https://aframe.io/docs/1.7.0/components/background.html <-- How to make a backgrounf for a scene
 * 
 
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
