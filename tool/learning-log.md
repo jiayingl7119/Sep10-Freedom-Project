@@ -51,5 +51,13 @@
 <!-- Textured box. -->
 <a-box src="#texture"></a-box>
 ```
+* (<) a-camera (>)
+```language
+<a-scene>
+  <a-box></a-box>
+  <a-camera></a-camera>
+</a-scene>
+```
+* 
 * 
 
