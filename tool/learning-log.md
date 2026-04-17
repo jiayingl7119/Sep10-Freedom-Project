@@ -23,7 +23,7 @@
 ### 4/16/2026: Different Components That I'm Interested In
 * https://aframe.io/docs/1.7.0/components/background.html <-- How to make a background for a scene
 * https://aframe.io/docs/1.7.0/components/camera.html <-- How to angle with the pov
-* < a-scene fog="type: linear; color: #AAA"></a-scene (close off) <-- Code for fog
+* (<) a-scene fog="type: linear; color: #AAA"></a-scene (>) <-- Code for fog
 * Only a few shapes can be used in Aframe
 * https://aframe.io/docs/1.7.0/components/rotation.html <-- Rotation
 * https://aframe.io/docs/1.7.0/components/scale.html <-- Scaling
