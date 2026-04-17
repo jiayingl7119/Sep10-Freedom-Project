@@ -37,8 +37,10 @@
 * https://aframe.io/docs/1.7.0/components/reflection.html <-- reflection
 * https://aframe.io/docs/1.7.0/components/renderer.html <-- rendering
 * https://aframe.io/docs/1.7.0/components/line.html <-- line
+  
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
-* 
+* <a-box>
+
 * 
 
 <!-- 
