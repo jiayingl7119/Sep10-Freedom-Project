@@ -40,13 +40,16 @@
   
 ### 4/17/2026: Look ar Primitives and See Which One I Like The Best
 * <a-box>
+```language
+<a-assets>
+  <img id="texture" src="texture.png">
+</a-assets>
 
+<!-- Basic box. -->
+<a-box color="tomato" depth="2" height="4" width="0.5"></a-box>
+
+<!-- Textured box. -->
+<a-box src="#texture"></a-box>
+```
 * 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
