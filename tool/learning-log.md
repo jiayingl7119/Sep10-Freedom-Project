@@ -82,12 +82,19 @@
   <a-plane src="#ground" height="100" width="100" rotation="-90 0 0"></a-plane>
 </a-scene>
 ```
-* 
-* 
-* 
-* 
-* 
-
+* (<) a-sky (>)
+```language
+<a-scene>
+  <a-assets>
+    <img id="sky" src="sky.png">
+  </a-assets>
+  <a-sky src="#sky"></a-sky>
+</a-scene>
+```
+and
+```language
+<a-sky color="#6EBAA7"></a-sky>
+```
 
 
 
