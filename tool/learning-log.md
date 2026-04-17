@@ -68,6 +68,20 @@
   <a-box></a-box>
 </a-scene>
 ```
+* (<) a-plane (>)
+```language
+<a-scene>
+  <a-assets>
+    <img id="ground" src="ground.jpg">
+  </a-assets>
+
+  <!-- Basic plane. -->
+  <a-plane color="#CCC" height="20" width="20"></a-plane>
+
+  <!-- Textured plane parallel to ground. -->
+  <a-plane src="#ground" height="100" width="100" rotation="-90 0 0"></a-plane>
+</a-scene>
+```
 * 
 * 
 * 
