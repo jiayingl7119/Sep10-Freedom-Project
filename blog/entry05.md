@@ -2,7 +2,7 @@
 ##### 4/20/2026
 
 ## Engineering Design Process
-At first, I looked at the program before I did some changing. In which, it was <a href="https://aframe.io/">Aframe.io</a>. It included a box, a sphere, and a cylinder. There was also a platform for the said objects/shapes. The starting code looking like this:
+At first, I looked at the program before I did some changing. In which, it was <a href="https://aframe.io/">Aframe.io</a>. It included a box, a sphere, and a cylinder. There was also a platform for the said objects/shapes and also sky. The starting code looking like this:
 ```language
 <html>
   <head>
@@ -19,7 +19,7 @@ At first, I looked at the program before I did some changing. In which, it was <
   </body>
 </html>
 ```
-In which, the user could copy these lines of code to make their own experience. Such as changing the color of the sphere to green or change the box's position to the left by 3. 
+In which, the user could copy these lines of code to make their own experience. Such as changing the color of the sphere to green or change the box's position to the left by 3. Or they could've changed the sky or platform color. In this code, you could also add weather.
 
 ## Skills
 
