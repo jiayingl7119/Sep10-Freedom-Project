@@ -1,6 +1,9 @@
 # Entry 5
 ##### 4/20/2026
 
+## Context
+Students were tasked to select a tool to make their Freedom Project. Then, tinker with said tool. This could include 3D models, animations, and more. In this case, you could tinker with sky, platform, and shape color and positions. 
+
 ## Engineering Design Process
 At first, I looked at the program before I did some changing. In which, it was <a href="https://aframe.io/">Aframe.io</a>. It included a box, a sphere, and a cylinder. There was also a platform for the said objects/shapes and also sky. The starting code looking like this:
 ```language
