@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://raw.githubusercontent.com/jiayingl7119/jiayingl7119.github.io/refs/heads/main/img/Untitled50_20260427083752.png)
+* [Desktop](https://raw.githubusercontent.com/jiayingl7119/jiayingl7119.github.io/refs/heads/main/img/Untitled51_20260427083904.png)
 
 ## Colors
 * `#ABC123`
@@ -29,7 +29,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
