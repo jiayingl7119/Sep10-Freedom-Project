@@ -5,7 +5,8 @@
 * [Desktop](https://raw.githubusercontent.com/jiayingl7119/jiayingl7119.github.io/refs/heads/main/img/Untitled51_20260427083904.png)
 
 ## Colors
-* `#ABC123`
+* `#A4C4A0`
+
 
 ## Fonts
 * [Text](URL)
