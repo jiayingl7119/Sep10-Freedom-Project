@@ -6,22 +6,27 @@
 
 ## Colors
 * `#A4C4A0`
-
+* `#64B05B`
+* `#429638`
+* `#44783E`
+* `#3D5D39`
 
 ## Fonts
-* [Text](URL)
-
-## Timeline
+* [Title/Sekuya](https://fonts.google.com/selection/embed)
+* [Text/Kranky](https://fonts.google.com/selection?categoryFilters=Feeling:%2FExpressive%2FPlayful&preview.script=Latn)
+* [Heading/Gorditas](https://fonts.google.com/selection?categoryFilters=Feeling:%2FExpressive%2FPlayful&preview.script=Latn)
 
 #### MVP
 
-* Task/Timeline
+* Plan
+* Set up sections
+* Add all the details
 
 ---
 
 #### Beyond MVP
 
-* Task
+ * Decorate
 
 
 

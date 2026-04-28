@@ -1,0 +1,31 @@
+.body{
+    background-color: #A4C4A0;
+}
+
+.first{
+    background-color: #A4C4A0;
+    border: 2px solid black;
+    height: 150px;
+}
+
+.center {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.second{
+    background-color: #64B05B;
+    border: 2px solid black;
+}
+
+.third{
+    background-color: #429638;
+    border: 2px solid black;
+}
+
+.fourth{
+    background-color: #44783E;
+    border: 2px solid black;
+}
