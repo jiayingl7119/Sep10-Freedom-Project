@@ -5,27 +5,62 @@
 .first{
     background-color: #A4C4A0;
     border: 2px solid black;
-    height: 150px;
+    height: 750px;
+}
+
+.no{
+    display: flex;
+    align-items: flex-end;
+    height: 275px;
+}
+
+.stop{
+    display: flex;
+    align-items: flex-end;
+    height: 280px;
 }
 
 .center {
-     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    height: 175px;
+}
+
+.small{
+    height: 450px;
+    width: 500px;
+    display: flex;
+    position: relative;
+    left: 1450px;
+    up: 120px;
 }
 
 .second{
     background-color: #64B05B;
     border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    height: 400px;
+}
+
+.centered {
+     display: flex;
+    align-items: flex-end;
+    height: 200px;
 }
 
 .third{
     background-color: #429638;
     border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    height: 400px;
 }
 
 .fourth{
     background-color: #44783E;
     border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    height: 400px;
 }
