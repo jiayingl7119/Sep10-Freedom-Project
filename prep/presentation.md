@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Name, class, and title of the project. Then, the reason why I chose to make a webpage of the said topic.
 
 ## Product
 * 
