@@ -9,6 +9,8 @@ During the design process, I chose to use a template. The reason for this is bec
 
 <img src="https://raw.githubusercontent.com/jiayingl7119/jiayingl7119.github.io/refs/heads/main/img/Untitled60_20260510224354.png"/>
 
+I changed the image into a image I made by drawing. After all, if the inventions does not exist yet, it will have to be drawn.
+
 ## Skills
 
 <h6> Organization </h6>
