@@ -2,6 +2,7 @@
 ##### 5/10/2026
 
 ## Context
+Students were tasked to make a webpage based on their topic. In my case, it's about the Law Industry. this included the title page, context, inventions that the law industry already has, future technology, and why the future technology is useful.
 
 ## EDP
 
