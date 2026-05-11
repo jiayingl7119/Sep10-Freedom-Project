@@ -7,6 +7,8 @@ Students were tasked to make a webpage based on their topic. In my case, it's ab
 ## Engineering Design Process
 During the design process, I chose to use a template. The reason for this is because some templates look better than a webpage that looks like a mess. In all of the sections of the webpages, I changed many of what was i cluded in the template. This is an example:
 
+<img src="https://raw.githubusercontent.com/jiayingl7119/jiayingl7119.github.io/refs/heads/main/img/Untitled60_20260510224354.png"/>
+
 ## Skills
 
 <h6> Organization </h6>
